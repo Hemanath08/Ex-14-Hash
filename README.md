@@ -2,20 +2,20 @@
 ## AIM:
 To generate a simple hash of a given message using a custom hash function.
 
-DESIGN STEPS:
-STEP 1:
+## DESIGN STEPS:
+## STEP 1:
 Input a message from the user.
 
-STEP 2:
+## STEP 2:
 Use a basic custom hash function that applies simple operations like XOR and addition on the characters of the message.
 
-STEP 3:
+## STEP 3:
 Convert the resulting hash into a hexadecimal format.
 
-STEP 4:
+## STEP 4:
 Display the computed hash to the user.
 
-STEP 5:
+## STEP 5:
 Optionally verify the hash by recomputing it and comparing it with a received hash.
 
 ## PROGRAM:
